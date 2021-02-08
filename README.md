@@ -1,5 +1,7 @@
 # Blood Bowl 2 Randomizer
 
+Made using Python3, requires Python to execute.
+
 Backs up to the name "Management.db.bak" inside the same directory
 
 Requires an offline team, and for you to generate teams by joining a league.
