@@ -1,7 +1,7 @@
 {
   "name": "Enmity",
   "identifier": "enmity.hammerandchisel.discord",
-  "sourceURL": "https://nickchan.gq/altstore-beta/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/Hinkiii/bb2randomizer/main/apps.json",
   "apps": [
     {
       "name": "Enmity",
